@@ -1,2 +1,1 @@
-# Mustaine_Portfolio
-Portfolio of Skills
+theme: jekyll-theme-minimal
